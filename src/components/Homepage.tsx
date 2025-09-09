@@ -378,7 +378,7 @@ export function Homepage({ onNavigateToSignIn, onNavigateToDashboard, isAuthenti
             viewport={{ once: true }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            Join thousands of farmers who are already using CropWatch Pro to increase yields and reduce costs.
+            Join thousands of farmers who are already using CropTimize to increase yields and reduce costs.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 50 }}
@@ -421,7 +421,7 @@ export function Homepage({ onNavigateToSignIn, onNavigateToDashboard, isAuthenti
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            © 2024 CropWatch Pro. All rights reserved. Empowering farmers with technology.
+            © 2025 CropTimize. All rights reserved. Empowering farmers with technology.
           </motion.p>
         </div>
       </footer>
